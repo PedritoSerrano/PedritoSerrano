@@ -6,7 +6,7 @@
 
 📍 **Triana, Sevilla** | 🎂 **20 años** | 🚀 **Apasionado por crear experiencias web excepcionales**
 
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serrano.roped24@triana.salesianos.edu)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](serrano.roped24@triana.salesianos.edu)
 [![GitHub](https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedritoSerrano)
 
 </div>
@@ -64,49 +64,6 @@ Soy un **desarrollador full stack de 20 años** apasionado por el **frontend** y
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=PedritoSerrano&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=PedritoSerrano&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PedritoSerrano&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
-
----
-
-## 🎯 Habilidades Profesionales
-
-```javascript
-const pedroSerrano = {
-    especialización: "Frontend Development",
-    habilidadesTécnicas: [
-        "Programación multiplataforma",
-        "Administración técnica de sistemas y redes",
-        "Manejo de herramientas ofimáticas",
-        "Entornos de desarrollo modernos"
-    ],
-    habilidadesBlandas: [
-        "Capacidad de aprendizaje rápido",
-        "Adaptación a nuevas tecnologías",
-        "Trabajo en equipo",
-        "Responsabilidad y compromiso",
-        "Comunicación efectiva"
-    ],
-    idiomas: {
-        español: "Nativo",
-        inglés: "B1"
-    },
-    ubicación: "Triana, Sevilla",
-    disponibilidad: "Carnet de conducir B"
-};
-```
-
----
-
 ## 🎓 Formación Académica
 
 | 🎓 Título | 🏫 Centro | 📅 Período |
@@ -145,9 +102,8 @@ const pedroSerrano = {
 
 **¡Hablemos!**
 
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serrano.roped24@triana.salesianos.edu)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](serrano.roped24@triana.salesianos.edu)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedritoSerrano)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://github.com/PedritoSerrano)
 
 📞 **Teléfono:** 609795635  
 📍 **Dirección:** C/ La Glorieta 2, Higuera la Real || C/ Clara de Jesús Montero 32, 3c
