@@ -19,10 +19,6 @@ Soy un **desarrollador full stack de 20 años** apasionado por el **frontend** y
 
 - 🎯 **Especialización:** Frontend Development & Diseño de Interfaces
 - 🌱 **Actualmente:** Cursando CFGS en Desarrollo de Aplicaciones Multiplataforma en Salesianos San Pedro (Triana)
-- 💼 **Experiencia:** Prácticas en Noxium y Redes Informática Yov@
-- 🚀 **Características:** Trabajador, cooperativo e implicado en cada proyecto
-- 🎓 **Educación:** Estudiante de desarrollo de software con sólida base en múltiples tecnologías
-- 🌍 **Disponibilidad:** Carnet de conducir
 
 ---
 
@@ -45,33 +41,6 @@ Soy un **desarrollador full stack de 20 años** apasionado por el **frontend** y
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
----
-
-## 💼 Experiencia Profesional
-
-### 🏢 Noxium - Prácticas Laborales
-**Desarrollador Full Stack** | *1 mes y medio*
-- 🔸 Desarrollo con **CFOS** (Sistema de gestión multiplataforma)
-- 🔸 Trabajo en equipo y metodologías ágiles
-- 🔸 Implementación de soluciones full stack
-
-### 🖥️ Redes Informática Yov@ - Prácticas Laborales
-**Desarrollador Full Stack** | *3 meses*
-- 🔸 Desarrollo con **CFOM** (Sistemas Microinformáticos y Redes)
-- 🔸 Solución de problemas técnicos complejos
-- 🔸 Gestión de sistemas y redes
-
----
-
-## 🎓 Formación Académica
-
-| 🎓 Título | 🏫 Centro | 📅 Período |
-|-----------|-----------|------------|
-| **CFGS Desarrollo de Aplicaciones Multiplataforma** | Salesianos San Pedro (Triana) | 2024-2026 |
-| **CFGM Sistemas Microinformáticos y Redes** | IES Ildefonso Serrano | 2022-2024 |
-| **Educación Secundaria Obligatoria** | IES Eugenio Hermoso | 2017-2021 |
-| **Educación Primaria** | CEIP Nuestra Señora de Guadalupe | 2008-2016 |
 
 ---
 
