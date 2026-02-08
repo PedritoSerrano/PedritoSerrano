@@ -6,7 +6,7 @@
 
 📍 **Triana, Sevilla** | 🎂 **20 años** | 🚀 **Apasionado por crear experiencias web excepcionales**
 
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](serrano.roped24@triana.salesianos.edu)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serrano.roped24@triana.salesianos.edu)
 [![GitHub](https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedritoSerrano)
 
 </div>
@@ -102,7 +102,7 @@ Soy un **desarrollador full stack de 20 años** apasionado por el **frontend** y
 
 **¡Hablemos!**
 
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](serrano.roped24@triana.salesianos.edu)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serrano.roped24@triana.salesianos.edu)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedritoSerrano)
 
 📞 **Teléfono:** 609795635  
