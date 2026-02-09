@@ -44,25 +44,6 @@ Soy un **desarrollador full stack de 20 años** apasionado por el **frontend** y
 
 ---
 
-## 🌟 Lo que me Define
-
-<div align="center">
-
-| 💪 Trabajo Duro | 🤝 Cooperación | 🎯 Compromiso |
-|:---------------:|:--------------:|:-------------:|
-| Dedicación total en cada proyecto | Excelente trabajo en equipo | Implicación al 100% |
-
-</div>
-
-### ✨ Aptitudes Destacadas:
-- ✅ **Puntualidad** y profesionalismo
-- ✅ **Amabilidad** en el trato con compañeros y clientes
-- ✅ **Responsabilidad** en la entrega de proyectos
-- ✅ **Capacidad de aprendizaje** continuo
-- ✅ **Adaptabilidad** a nuevos entornos y tecnologías
-
----
-
 ## 📫 Conecta Conmigo
 
 <div align="center">
@@ -73,9 +54,6 @@ Soy un **desarrollador full stack de 20 años** apasionado por el **frontend** y
 
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serrano.roped24@triana.salesianos.edu)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedritoSerrano)
-
-📞 **Teléfono:** 609795635  
-📍 **Dirección:** C/ La Glorieta 2, Higuera la Real || C/ Clara de Jesús Montero 32, 3c
 
 </div>
 
