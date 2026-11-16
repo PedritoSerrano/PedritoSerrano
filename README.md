@@ -18,7 +18,7 @@
 Soy un **desarrollador full stack de 20 años** apasionado por el **frontend** y la creación de interfaces de usuario intuitivas y atractivas. Me caracterizo por ser una persona **puntual, amigable, responsable** y con gran **capacidad cooperativa**.
 
 - 🎯 **Especialización:** Frontend Development & Diseño de Interfaces
-- 🌱 **Actualmente:** Cursando CFGS en Desarrollo de Aplicaciones Multiplataforma en Salesianos San Pedro (Triana)
+- 🌱 **Actualmente:** Cursando Máster en Inteligencia Artificial con BIG School y Universidad Isabel I
 
 ---
 
